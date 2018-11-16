@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+#Technical Skills and Certifications
 
-You can use the [editor on GitHub](https://github.com/mgu750/OnlineResume/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+##Technical Skills
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+-###Amazon Web Services (AWS)
+to be completed
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-###GitHub
 
-```markdown
-Syntax highlighted code block
+###Description:
+The 8 GitHub labs include an overview of fundamental GitHub skils including:
+-GitHub page navigation
+-Adding files
+-Formatting content using Markdown
+-Creating and merging Pull Requests
+-Publishing repositories using GitHub Pages
+-Contributing to repositories in the GitHub community
+-Uploading existing projects to GitHub
 
-# Header 1
-## Header 2
-### Header 3
+###Course Completion
+<img src="GitHubProgress1.png" alt="GitHub Courses Completed">
+<img src="GitHubProgress2.png" alt="GitHub Courses Completed">
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+-###Linux
+to be completed
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+-###PowerBI
+to be completed3
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+-###PowerShell
+to be completed
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mgu750/OnlineResume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+##Certifications
+-###CSX Cybersecurity Fundamentals
+to be completed
+schedule to be added by 12/5/18
+
+
+-###CompTIA Network+ 
+to be completed
+schedule to be added by 12/5/18
+  
