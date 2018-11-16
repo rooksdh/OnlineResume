@@ -20,6 +20,7 @@ The 8 GitHub labs include an overview of fundamental GitHub skils including:
 
 ### Course Completion
 ![GitHubProgress](GitHubProgress1.png)
+
 ![GitHubProgress2](GitHubProgress2.png)
 
 
