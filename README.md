@@ -1,5 +1,3 @@
-```
-
 # Technical Skills and Certifications
 
 ## Technical Skills
@@ -36,10 +34,8 @@ to be completed3
 * ### PowerShell
 to be completed
 
-'''
 
 
-'''
 
 ## Certifications
 * ### CSX Cybersecurity Fundamentals
@@ -50,5 +46,3 @@ schedule to be added by 12/5/18
 * ### CompTIA Network+ 
 to be completed
 schedule to be added by 12/5/18
-  
-```
