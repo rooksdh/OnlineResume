@@ -1,4 +1,5 @@
-```markdown
+```
+
 # Technical Skills and Certifications
 
 ## Technical Skills
@@ -35,8 +36,10 @@ to be completed3
 * ### PowerShell
 to be completed
 
+'''
 
 
+'''
 
 ## Certifications
 * ### CSX Cybersecurity Fundamentals
