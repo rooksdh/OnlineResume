@@ -21,8 +21,8 @@ The 8 GitHub labs include an overview of fundamental GitHub skils including:
 * Uploading existing projects to GitHub
 
 ### Course Completion
-<img src="GitHubProgress1.png" alt="GitHub Courses Completed">
-<img src="GitHubProgress2.png" alt="GitHub Courses Completed">
+![GitHubProgress](GitHubProgress1.png)
+![GitHubProgress2](GitHubProgress2.png)
 
 
 * ### Linux
