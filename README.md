@@ -5,98 +5,97 @@ Please click on the drop-down arrows below to see a description of the technical
 ## Technical Skills
 
 <details><summary>AMAZON WEB SERVICES (AWS)</summary>
-<p>
+
   
 #### Description:
 I completed the AWS Cloud Practitioner Essentials course offered by Amazon:
 https://www.aws.training/learningobject/curriculum?id=16357
 
 The 8 AWS Courses include an overview of fundamental Amazon Web Services products and capabilities including:
-* Definition and benefits of cloud computing
-* AWS Core Services (EC2 Cloud, S3 Data Storage, etc.)
-* AWS Security (Shared responsibility model, roles, permissions, security certifications)
-* AWS Architecting (Pillars: operational excellence, security, reliability, performance efficiency, cost optimization)
-* AWS Pricing and Support (only pay for what you use)
-* AWS Product Demonstrations
++ Definition and benefits of cloud computing
++ AWS Core Services (EC2 Cloud, S3 Data Storage, etc.)
++ AWS Security (Shared responsibility model, roles, permissions, security certifications)
++ AWS Architecting (Pillars: operational excellence, security, reliability, performance efficiency, cost optimization)
++ AWS Pricing and Support (only pay for what you use)
++ AWS Product Demonstrations
 
 ### Course Completion 
-AWS Cloud Practitioner Essentials Course Completion Certificate:
++ AWS Cloud Practitioner Essentials Course Completion Certificate:
 ![AWS Course Completion]( AWSCourseCompletion.jpg)
 
 
 
-</p>
+
 </details>
 
 <br>
 <br>
 
 <details><summary>GITHUB</summary>
-<p>
+
 
 #### Description:
 I completed the introductory GitHub learning labs offered on the GitHub website:
 https://lab.github.com/courses 
 
 The 8 GitHub labs include an overview of fundamental GitHub skills including:
-* GitHub page navigation
-* Adding files
-* Formatting content using Markdown
-* Creating and merging Pull Requests
-* Publishing repositories using GitHub Pages
-* Contributing to repositories in the GitHub community
-* Uploading existing projects to GitHub
++ GitHub page navigation
++ Adding files
++ Formatting content using Markdown
++ Creating and merging Pull Requests
++ Publishing repositories using GitHub Pages
++ Contributing to repositories in the GitHub community
++ Uploading existing projects to GitHub
 
 #### Course Completion:
 ![GitHubProgress](GitHubProgress1.png)
 
 ![GitHubProgress2](GitHubProgress2.png)
 
-</p>
+
 </details>
 
 <br>
 <br>
   
 <details><summary>LINUX</summary>
-<p>
+
 
 #### Description:
 I completed a series of online tutorials offered by Guru99:
 https://www.guru99.com/unix-linux-tutorial.html 
 
 The 5 Linux learning modules offer information regarding Linux development, structure, and basic commands including:
-* Kernel definition
-* Description of Linux development (free, open source OS launched in 1991)
-* Explanation of Linux environment (everything acts as a file)
-* Linux distributions (Red Hat, Ubuntu, etc.)
-* User roles and security (regular, root, service)
-* File naming conventions (case sensitive)
-* Basic commands (pwd, cd, ls, cat, history, etc.)
-* User permissions (read, write, execute)
-* Input and Output redirection
-* Piping (used to run commands consecutively)
-* Searching and filtering files (grep command, sort command)
-* Regular expressions (sepcial characters used to search data and create lists)
-* Linux environment variables (values that can control or inform system behavior, including: PATH, $LANG, etc.)
-* Communicating within networks (Ping, FTP, SSH)
-* Managing processes (foreground vs. background processes, ps utility, kill, nice)
-* The VI editor (command and insert mode)
-* Shell scripting (complex scripts that process input and create output)
-* Virtual terminals (allow multiple users to work on the same computer)
-* Administration (adding users, managing groups, and access controls)
-* Comparison with Unix
-* Common interview questions regarding shell scripting, Linux, and Unix
++ Kernel definition
++ Description of Linux development (free, open source OS launched in 1991)
++ Explanation of Linux environment (everything acts as a file)
++ Linux distributions (Red Hat, Ubuntu, etc.)
++ User roles and security (regular, root, service)
++ File naming conventions (case sensitive)
++ Basic commands (pwd, cd, ls, cat, history, etc.)
++ User permissions (read, write, execute)
++ Input and Output redirection
++ Piping (used to run commands consecutively)
++ Searching and filtering files (grep command, sort command)
++ Regular expressions (sepcial characters used to search data and create lists)
++ Linux environment variables (values that can control or inform system behavior, including: PATH, $LANG, etc.)
++ Communicating within networks (Ping, FTP, SSH)
++ Managing processes (foreground vs. background processes, ps utility, kill, nice)
++ The VI editor (command and insert mode)
++ Shell scripting (complex scripts that process input and create output)
++ Virtual terminals (allow multiple users to work on the same computer)
++ Administration (adding users, managing groups, and access controls)
++ Comparison with Unix
++ Common interview questions regarding shell scripting, Linux, and Unix
 
 
-</p>
 </details>
 
 <br>
 <br>
 
 <details><summary>POWER BI</summary>
-<p>
+
 
 #### Description:
 I completed an online training course offered by EdX:
