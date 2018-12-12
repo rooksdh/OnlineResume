@@ -18,7 +18,7 @@ The 8 AWS Courses include an overview of fundamental Amazon Web Services product
 
 ### Course Completion 
 AWS Cloud Practitioner Essentials Course Completion Certificate:
-![AWS Course Completion]( AWSCourseCompletion.png)
+![AWS Course Completion]( AWSCourseCompletion.jpg)
 
 
 
@@ -103,17 +103,17 @@ The 9 Power BI learning modules and corresponding labs include an overview of fu
 
 
 #### Course Completion:
-![PowerBI Course Completion](PBICourseCompletion.png)
+![PowerBI Course Completion](PBICourseCompletion.jpg)
 
 
 #### Course Performance:
-![PowerBI Course Progress](PBICourseProgress.png)
+![PowerBI Course Progress](PBICourseProgress.jpg)
 ![PowerBI Intro](PBIIntroGrades.png)
-![PowerBI Module 1 and 2](PBIModule1-2Grades.png)
-![PowerBI Module 3](PBIModule3Grades.png)
-![PowerBI Module 4 and 5](PBIModule4-5Grades.png)
-![PowerBI Module 6 and 7](PBIModule6-7Grades.png)
-![PowerBI Module 8 and 9](PBIModule8-9Grades.png)
+![PowerBI Module 1 and 2](PBIModule1-2Grades.jpg)
+![PowerBI Module 3](PBIModule3Grades.jpg)
+![PowerBI Module 4 and 5](PBIModule4-5Grades.jpg)
+![PowerBI Module 6 and 7](PBIModule6-7Grades.jpg)
+![PowerBI Module 8 and 9](PBIModule8-9Grades.jpg)
 
 </p>
 </details>
