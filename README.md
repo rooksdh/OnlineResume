@@ -2,7 +2,7 @@
 
 Please click on the drop-down arrows below to see a description of the technical knowledge gained and proof of completion for each skill.
 
-<h2> Technical Skills </21>
+<h2> Technical Skills </h2>
 
 <details><summary>AMAZON WEB SERVICES (AWS)</summary>
 
@@ -180,7 +180,7 @@ Getting Started with PowerShell Desired State Configuration (DSC). The modules p
 <br>
 <br>
 
-<h2> Certifications </h2> 
+<h2> Certifications </h2>
 
 <details><summary>CSX CYBERSECURITY FUNDAMENTALS</summary>
 
@@ -199,8 +199,7 @@ Getting Started with PowerShell Desired State Configuration (DSC). The modules p
 <li>Disaster recovery and business continuity planning</li>
 <ul>
 
-<h4> Completion Schedule: </h4>
-<ul>
+<ul> <h4> Completion Schedule: </h4>
 <li>Week 1 (1/6/19-1/12/19): Review sections 1 and 2</li>
 <li>Week 2 (1/13/19-1/19/19): Review sections 3 and 4</li>
 <li>Week 3 (1/20/19-1/26/19): Review sections 5 and 6</li>
