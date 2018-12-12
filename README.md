@@ -151,7 +151,7 @@ Getting Started with PowerShell Desired State Configuration (DSC)
 * DSC and Linux
 
 #### Course Completion:
-![PowerShell Badge](PowerShellBadge.jpg)
+![PowerShell Badge](PowerShellBadge2.jpg)
 
 </p>
 </details>
