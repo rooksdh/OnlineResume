@@ -151,7 +151,7 @@ Getting Started with PowerShell Desired State Configuration (DSC)
 * DSC and Linux
 
 #### Course Completion:
-![PowerShell Badge](PowerShellBadge.png)
+![PowerShell Badge](PowerShellBadge.jpeg)
 
 </p>
 </details>
@@ -160,7 +160,6 @@ Getting Started with PowerShell Desired State Configuration (DSC)
 <br>
 
 ## Certifications
-* ### CSX Cybersecurity Fundamentals
 
 <details><summary>CSX CYBERSECURITY FUNDAMENTALS</summary>
 <p>
@@ -179,10 +178,10 @@ The CSX Cybersecurity Fundamentals certification offers an overview of important
 * Disaster recovery and business continuity planning
 
 #### Completion Schedule:
-Week 1 (1/6/19-1/12/19): Review sections 1 and 2
-Week 2 (1/13/19-1/19/19): Review sections 3 and 4
-Week 3 (1/20/19-1/26/19): Review sections 5 and 6
-Week 4 (1/27/19-2/1/19): Review Vocabulary
+* Week 1 (1/6/19-1/12/19): Review sections 1 and 2
+* Week 2 (1/13/19-1/19/19): Review sections 3 and 4
+* Week 3 (1/20/19-1/26/19): Review sections 5 and 6
+* Week 4 (1/27/19-2/1/19): Review Vocabulary
 
 Potential exam date: 2/2/19
 
