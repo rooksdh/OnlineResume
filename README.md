@@ -40,7 +40,7 @@ AWS Cloud Practitioner Essentials Course Completion Certificate:
 I completed the introductory GitHub learning labs offered on the GitHub website:
 https://lab.github.com/courses 
 
-<ul> The 8 GitHub labs include an overview of fundamental GitHub skills including:
+<ul>The 8 GitHub labs include an overview of fundamental GitHub skills including:
 <li>GitHub page navigation</li>
 <li>Adding files</li>
 <li>Formatting content using Markdown</li>
@@ -68,7 +68,7 @@ https://lab.github.com/courses
 I completed a series of online tutorials offered by Guru99:
 https://www.guru99.com/unix-linux-tutorial.html 
 
-<ul> The 5 Linux learning modules offer information regarding Linux development, structure, and basic commands including:
+<ul>The 5 Linux learning modules offer information regarding Linux development, structure, and basic commands including:
 <li>Kernel definition</li>
 <li>Description of Linux development (free, open source OS launched in 1991)</li>
 <li>Explanation of Linux environment (everything acts as a file)</li>
@@ -105,7 +105,7 @@ https://www.guru99.com/unix-linux-tutorial.html
 I completed an online training course offered by EdX:
 https://powerbi.microsoft.com/en-us/learning/ 
 
-<ul> The 9 Power BI learning modules and corresponding labs include an overview of fundamental data analysis and visualization skills using Power BI. These skills include:
+<ul>The 9 Power BI learning modules and corresponding labs include an overview of fundamental data analysis and visualization skills using Power BI. These skills include:
 <li>Manipulating data in the Power BI desktop, indcluding spreadsheets and parameters</li>
 <li>Modeling data thorugh creating columns and tables</li>
 <li>Analyzing and visualizing data thorugh graphs, slicers, and conditional formatting</li>
@@ -147,28 +147,28 @@ https://mva.microsoft.com/learning-path/powershell-beginner-12
 The PowerShell Beginner course learning path included 2 modules: Getting Started with Microsoft PowerShell and
 Getting Started with PowerShell Desired State Configuration (DSC). The modules provided an overview of PowerShell logic and syntax. They also provided viewers methods to continue learning on their own. These modules covered the following core PowerShell concepts:
 
-<ul> Getting Started with Microsoft PowerShell
-<li>PowerShell purpose and launching</li></li></li>
-<li>PowerShell commandlets</li></li></li>
-<li>Effective use of the help system</li></li></li>
-<li>Using the pipeline to create more powerful code through combining commands</li></li></li>
-<li>Using objects</li></li></li>
-<li>Using PowerShell remotely</li></li></li>
-<li>Automation</li></li></li>
-<li>Basic scripting</li></li></li>
+<ul>Getting Started with Microsoft PowerShell
+<li>PowerShell purpose and launching</li>
+<li>PowerShell commandlets</li>>
+<li>Effective use of the help system</li>
+<li>Using the pipeline to create more powerful code through combining commands</li>
+<li>Using objects</li>
+<li>Using PowerShell remotely</li>
+<li>Automation</li>
+<li>Basic scripting</li>
 </ul>
 
-<ul> Getting Started with PowerShell Desired State Configuration (DSC)
-<li>DSC architecture (push/pull)</li></li>
-<li>Idempotent scripting</li></li>
-<li>Webserver configuration</li></li>
-<li>Configuring pull servers for deployment (SMB and HTTPS)</li></li>
-<li>Configuring pus servers for deployment</li></li>
-<li>Using built-in resources and add-ins</li></li>
-<li>Parameterized configurations</li></li>
-<li>Creating and encrypting credentials</li></li>
-<li>Common code practices</li></li>
-<li>DSC and Linux</li></li>
+<ul>Getting Started with PowerShell Desired State Configuration (DSC)
+<li>DSC architecture (push/pull)</li>
+<li>Idempotent scripting</li>
+<li>Webserver configuration</li>
+<li>Configuring pull servers for deployment (SMB and HTTPS)</li>
+<li>Configuring pus servers for deployment</li>
+<li>Using built-in resources and add-ins</li>
+<li>Parameterized configurations</li>
+<li>Creating and encrypting credentials</li>
+<li>Common code practices</li>
+<li>DSC and Linux</li>
 </ul>
 
 <h4> Course Completion: </h4>
@@ -186,7 +186,7 @@ Getting Started with PowerShell Desired State Configuration (DSC). The modules p
 
 
 <h4> Description: </h4>
-<ul> The CSX Cybersecurity Fundamentals certification offers an overview of important cybersecurity concepts including:
+<ul>The CSX Cybersecurity Fundamentals certification offers an overview of important cybersecurity concepts including:
 <li>Risk framework</li>
 <li>Common attacks</li>
 <li>Cybersecurity controls</li>
@@ -199,7 +199,7 @@ Getting Started with PowerShell Desired State Configuration (DSC). The modules p
 <li>Disaster recovery and business continuity planning</li>
 <ul>
 
-<ul> <h4> Completion Schedule: </h4>
+<ul><h4> Completion Schedule: </h4>
 <li>Week 1 (1/6/19-1/12/19): Review sections 1 and 2</li>
 <li>Week 2 (1/13/19-1/19/19): Review sections 3 and 4</li>
 <li>Week 3 (1/20/19-1/26/19): Review sections 5 and 6</li>
