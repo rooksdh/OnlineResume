@@ -11,7 +11,8 @@ Please click on the drop-down arrows below to see a description of the technical
 I completed the AWS Cloud Practitioner Essentials course offered by Amazon:
 https://www.aws.training/learningobject/curriculum?id=16357
 
-<ul>The 8 AWS Courses include an overview of fundamental Amazon Web Services products and capabilities including:
+<ul>
+The 8 AWS Courses include an overview of fundamental Amazon Web Services products and capabilities including:
  <li>Definition and benefits of cloud computing</li>
  <li>AWS Core Services (EC2 Cloud, S3 Data Storage, etc.)</li>
  <li>AWS Security (Shared responsibility model, roles, permissions, security certifications)</li>
@@ -40,7 +41,8 @@ AWS Cloud Practitioner Essentials Course Completion Certificate:
 I completed the introductory GitHub learning labs offered on the GitHub website:
 https://lab.github.com/courses 
 
-<ul>The 8 GitHub labs include an overview of fundamental GitHub skills including:
+<ul>
+The 8 GitHub labs include an overview of fundamental GitHub skills including:
 <li>GitHub page navigation</li>
 <li>Adding files</li>
 <li>Formatting content using Markdown</li>
@@ -68,7 +70,8 @@ https://lab.github.com/courses
 I completed a series of online tutorials offered by Guru99:
 https://www.guru99.com/unix-linux-tutorial.html 
 
-<ul>The 5 Linux learning modules offer information regarding Linux development, structure, and basic commands including:
+<ul>
+The 5 Linux learning modules offer information regarding Linux development, structure, and basic commands including:
 <li>Kernel definition</li>
 <li>Description of Linux development (free, open source OS launched in 1991)</li>
 <li>Explanation of Linux environment (everything acts as a file)</li>
@@ -86,10 +89,10 @@ https://www.guru99.com/unix-linux-tutorial.html
 <li>Managing processes (foreground vs. background processes, ps utility, kill, nice)</li>
 <li>The VI editor (command and insert mode)</li>
 <li>Shell scripting (complex scripts that process input and create output)</li>
-<li>Virtual terminals (allow multiple users to work on the same computer)</li></li>
-<li>Administration (adding users, managing groups, and access controls)</li></li>
-<li>Comparison with Unix</li></li>
-<li>Common interview questions regarding shell scripting, Linux, and Unix</li></li>
+<li>Virtual terminals (allow multiple users to work on the same computer)</li>
+<li>Administration (adding users, managing groups, and access controls)</li>
+<li>Comparison with Unix</li>
+<li>Common interview questions regarding shell scripting, Linux, and Unix</li>
 </ul>
 
 
@@ -105,7 +108,8 @@ https://www.guru99.com/unix-linux-tutorial.html
 I completed an online training course offered by EdX:
 https://powerbi.microsoft.com/en-us/learning/ 
 
-<ul>The 9 Power BI learning modules and corresponding labs include an overview of fundamental data analysis and visualization skills using Power BI. These skills include:
+<ul>
+The 9 Power BI learning modules and corresponding labs include an overview of fundamental data analysis and visualization skills using Power BI. These skills include:
 <li>Manipulating data in the Power BI desktop, indcluding spreadsheets and parameters</li>
 <li>Modeling data thorugh creating columns and tables</li>
 <li>Analyzing and visualizing data thorugh graphs, slicers, and conditional formatting</li>
@@ -147,9 +151,10 @@ https://mva.microsoft.com/learning-path/powershell-beginner-12
 The PowerShell Beginner course learning path included 2 modules: Getting Started with Microsoft PowerShell and
 Getting Started with PowerShell Desired State Configuration (DSC). The modules provided an overview of PowerShell logic and syntax. They also provided viewers methods to continue learning on their own. These modules covered the following core PowerShell concepts:
 
-<ul>Getting Started with Microsoft PowerShell
+<ul>
+Getting Started with Microsoft PowerShell
 <li>PowerShell purpose and launching</li>
-<li>PowerShell commandlets</li>>
+<li>PowerShell commandlets</li>
 <li>Effective use of the help system</li>
 <li>Using the pipeline to create more powerful code through combining commands</li>
 <li>Using objects</li>
@@ -158,7 +163,8 @@ Getting Started with PowerShell Desired State Configuration (DSC). The modules p
 <li>Basic scripting</li>
 </ul>
 
-<ul>Getting Started with PowerShell Desired State Configuration (DSC)
+<ul>
+Getting Started with PowerShell Desired State Configuration (DSC)
 <li>DSC architecture (push/pull)</li>
 <li>Idempotent scripting</li>
 <li>Webserver configuration</li>
@@ -185,8 +191,9 @@ Getting Started with PowerShell Desired State Configuration (DSC). The modules p
 <details><summary>CSX CYBERSECURITY FUNDAMENTALS</summary>
 
 
-<h4> Description: </h4>
-<ul>The CSX Cybersecurity Fundamentals certification offers an overview of important cybersecurity concepts including:
+<h4>Description:</h4>
+<ul>
+The CSX Cybersecurity Fundamentals certification offers an overview of important cybersecurity concepts including:
 <li>Risk framework</li>
 <li>Common attacks</li>
 <li>Cybersecurity controls</li>
@@ -199,7 +206,8 @@ Getting Started with PowerShell Desired State Configuration (DSC). The modules p
 <li>Disaster recovery and business continuity planning</li>
 <ul>
 
-<ul><h4> Completion Schedule: </h4>
+<ul>
+<h4> Completion Schedule: </h4>
 <li>Week 1 (1/6/19-1/12/19): Review sections 1 and 2</li>
 <li>Week 2 (1/13/19-1/19/19): Review sections 3 and 4</li>
 <li>Week 3 (1/20/19-1/26/19): Review sections 5 and 6</li>
