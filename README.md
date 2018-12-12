@@ -8,11 +8,14 @@ Please click on the drop-down arrows below to see a description of the technical
 <p>
   
 #### Description:
+I completed the AWS Cloud Practitioner Essentials course offered by Amazon:
+https://www.aws.training/learningobject/curriculum?id=16357
+
 The 8 AWS Courses include an overview of fundamental Amazon Web Services products and capabilities including:
 * Definition and benefits of cloud computing
 * AWS Core Services (EC2 Cloud, S3 Data Storage, etc.)
 * AWS Security (Shared responsibility model, roles, permissions, security certifications)
-* AWS Architecting (Pillars: Operational excellence, security, reliability, performance efficiency, cost optimization)
+* AWS Architecting (Pillars: operational excellence, security, reliability, performance efficiency, cost optimization)
 * AWS Pricing and Support (only pay for what you use)
 * AWS Product Demonstrations
 
@@ -32,6 +35,9 @@ AWS Cloud Practitioner Essentials Course Completion Certificate:
 <p>
 
 #### Description:
+I completed the introductory GitHub learning labs offered on the GitHub website:
+https://lab.github.com/courses 
+
 The 8 GitHub labs include an overview of fundamental GitHub skills including:
 * GitHub page navigation
 * Adding files
@@ -56,6 +62,9 @@ The 8 GitHub labs include an overview of fundamental GitHub skills including:
 <p>
 
 #### Description:
+I completed a series of online tutorials offered by Guru99:
+https://www.guru99.com/unix-linux-tutorial.html 
+
 The 5 Linux learning modules offer information regarding Linux development, structure, and basic commands including:
 * Kernel definition
 * Description of Linux development (free, open source OS launched in 1991)
@@ -90,6 +99,9 @@ The 5 Linux learning modules offer information regarding Linux development, stru
 <p>
 
 #### Description:
+I completed an online training course offered by EdX:
+https://powerbi.microsoft.com/en-us/learning/ 
+
 The 9 Power BI learning modules and corresponding labs include an overview of fundamental data analysis and visualization skills using Power BI. These skills include:
 * Manipulating data in the Power BI desktop, indcluding spreadsheets and parameters
 * Modeling data thorugh creating columns and tables
@@ -125,8 +137,11 @@ The 9 Power BI learning modules and corresponding labs include an overview of fu
 <p>
 
 #### Description:
+I completed an online PowerShell course offered by Microsoft Virtual Academy:
+https://mva.microsoft.com/learning-path/powershell-beginner-12 
+
 The PowerShell Beginner course learning path included 2 modules: Getting Started with Microsoft PowerShell and
-Getting Started with PowerShell Desired State Configuration (DSC). The modules provided an overview of PowerShell logic and syntax, They also provided viewers methods to continue learning on their own. These modules covered the following core PowerShell concepts:
+Getting Started with PowerShell Desired State Configuration (DSC). The modules provided an overview of PowerShell logic and syntax. They also provided viewers methods to continue learning on their own. These modules covered the following core PowerShell concepts:
 
 Getting Started with Microsoft PowerShell
 * PowerShell purpose and launching
