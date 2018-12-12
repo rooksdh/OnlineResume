@@ -108,7 +108,7 @@ The 9 Power BI learning modules and corresponding labs include an overview of fu
 
 #### Course Performance:
 ![PowerBI Course Progress](PBICourseProgress.jpg)
-![PowerBI Intro](PBIIntroGrades.png)
+![PowerBI Intro](PBIIntroGrades.jpg)
 ![PowerBI Module 1 and 2](PBIModule1-2Grades.jpg)
 ![PowerBI Module 3](PBIModule3Grades.jpg)
 ![PowerBI Module 4 and 5](PBIModule4-5Grades.jpg)
