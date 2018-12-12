@@ -21,6 +21,7 @@ The 8 AWS Courses include an overview of fundamental Amazon Web Services product
 
 ### Course Completion 
 + AWS Cloud Practitioner Essentials Course Completion Certificate:
+<img src="AWSCourseCompletion.jpg" alt="AWS Course Completion">
 ![AWS Course Completion]( AWSCourseCompletion.jpg)
 
 
