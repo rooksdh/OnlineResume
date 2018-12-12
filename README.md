@@ -148,6 +148,8 @@ The 9 Power BI learning modules and corresponding labs include an overview of fu
 I completed an online PowerShell course offered by Microsoft Virtual Academy:
 https://mva.microsoft.com/learning-path/powershell-beginner-12 
 
+<br>
+
 The PowerShell Beginner course learning path included 2 modules: Getting Started with Microsoft PowerShell and
 Getting Started with PowerShell Desired State Configuration (DSC). The modules provided an overview of PowerShell logic and syntax. They also provided viewers methods to continue learning on their own. These modules covered the following core PowerShell concepts:
 
@@ -216,5 +218,3 @@ The CSX Cybersecurity Fundamentals certification offers an overview of important
 
 Potential exam date: 2/2/19
 
-
-</details>
